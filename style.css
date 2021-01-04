@@ -829,6 +829,7 @@ h4 {
 .contact{
     font-size:18px;
     color:#ffffff;
+    text-transform: uppercase;
 }
 
 @media (max-width: 1024px) {
