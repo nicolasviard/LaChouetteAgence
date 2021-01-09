@@ -677,7 +677,11 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
+}
+
+#bloc-6 p{
+    font-size: 17px;
 }
 
 .tight-width-whitespace {
