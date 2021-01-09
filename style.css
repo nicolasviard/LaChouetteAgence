@@ -703,11 +703,35 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    padding: 20px;
 }
 
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+}
+
+.titleH2 h2{
+    width:60%;
+    margin: auto;
+}
+
+blockquote{
+    font-size: 26px;
+    font-style: italic;
+    margin: auto;
+    font-weight: 600;
+    line-height: 1.2em;
+}
+
+blockquote span{
+    font-style: normal;
+    font-size: 17px;
+    font-weight: normal;
+}
+
+.text-center{
+    margin: auto;
 }
 
 h3 {
