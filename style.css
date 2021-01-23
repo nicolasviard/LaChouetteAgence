@@ -39,11 +39,6 @@ a:hover {
     position: relative;
 }
 
-.bloc .container {
-    padding-left: 0;
-    padding-right: 0;
-}
-
 .bloc-lg {
     padding: 100px 50px;
 }
@@ -316,15 +311,16 @@ a:hover {
 }
 
 .navbar .nav {
-    background-color: #000000;
+    text-transform: uppercase;
     padding-top: 2px;
     margin-right: -16px;
     float: right;
     z-index: 1;
 }
 
-.navbar-nav{
-    color:#fff !important;
+.navbar-nav a{
+    color:#000 !important;
+    font-weight: bold;
 }
 
 .nav > li {
@@ -339,7 +335,7 @@ a:hover {
 
 .nav > li a:hover,
 .nav > li a:focus {
-    background: transparent;
+    text-decoration:underline;
 }
 
 .navbar-toggle {
