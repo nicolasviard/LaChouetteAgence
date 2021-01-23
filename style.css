@@ -709,6 +709,7 @@ p {
     max-width: 400px;
     margin: auto auto auto auto;
     padding: 20px;
+    color:#fff !important;
 }
 
 h2 {
