@@ -324,7 +324,7 @@ a:hover {
 }
 
 .navbar-nav{
-    color:#fff;
+    color:#fff !important;
 }
 
 .nav > li {
