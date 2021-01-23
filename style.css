@@ -952,6 +952,9 @@ h4 {
     .b-parallax {
         background-attachment: scroll;
     }
+    .titleH2 h2{
+        width:100%;
+    }
     .navbar .nav {
         padding-top: 0;
         border-top: 1px solid rgba(0, 0, 0, .2);
